@@ -179,7 +179,7 @@ class GoogleSmartNames extends Component {
                     'action.devices.traits.OpenClose':      'OpenClose',
                     // 'action.devices.traits.RunCycle':    'RunCycle',
                     'action.devices.traits.Scene':          'Scene',
-                    // 'action.devices.traits.Sensor':      'Sensor',
+                    'action.devices.traits.Sensor':         'Sensor',
                     'action.devices.traits.StartStop':      'StartStop',
                     'action.devices.traits.TemperatureControl_temperatureSetpointCelsius':      'Oven_SetTemp',
                     'action.devices.traits.TemperatureControl_temperatureAmbientCelsius':       'Oven_StatusTemp',
